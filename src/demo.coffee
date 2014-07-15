@@ -1,0 +1,2 @@
+git = require './index'
+
